@@ -9,6 +9,10 @@ body {
 }
 
 #divLeft {
+  border: 5px dashed green;
+  border-radius: 20px;
+  margin: 10px;
+  padding: 8px;
   color: crimson;
   display: block;
   float: left;
