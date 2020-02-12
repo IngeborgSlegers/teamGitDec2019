@@ -9,6 +9,7 @@ body {
 }
 
 #divLeft {
+  color: crimson;
   display: block;
   float: left;
   width: 50%;
